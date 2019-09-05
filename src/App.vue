@@ -10,7 +10,7 @@ import BaseSpinner from './components/global/BaseSpinner'
 export default {
     components: {
         BaseSpinner
-    }
+    },
 }
 </script>
 
